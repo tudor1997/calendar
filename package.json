@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/tudor1997/calendar.git",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
